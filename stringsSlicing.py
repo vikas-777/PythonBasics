@@ -14,3 +14,4 @@ print(name.lower())
 print(name.find("g"))
 print(name.replace("python", "vikas"))  # stores in a new variable
 print(name.replace("programming", "vikas"))  # stores in another new variable
+print(name[::-1])
